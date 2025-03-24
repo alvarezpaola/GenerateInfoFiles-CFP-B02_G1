@@ -1,0 +1,10 @@
+- Integrantes:  
+/*
+Integrantes:
+- JUAN CAMILO ALEGRIAS ALVAREZ
+- KEVIN STEVEN ALEJO CASTILLO
+- YURI PAOLA ALVAREZ
+- DANIELA ALZATE VALENCIA
+- DAYRA CAMILA ARAGON GONZALEZ
+*/
+- Enlace al repositorio: https://github.com/alvarezpaola/GenerateInfoFiles-CFP-B02_G1
