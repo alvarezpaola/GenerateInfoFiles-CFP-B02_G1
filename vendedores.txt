@@ -1,0 +1,5 @@
+CC;1000;Juan;Alzate
+CC;1001;Juan;Alejo
+CC;1002;Dayra;Alvarez
+CC;1003;Paola;Alvarez
+CC;1004;Kevin;Alzate

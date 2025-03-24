@@ -1,0 +1,10 @@
+1;Producto1;77
+2;Producto2;31
+3;Producto3;69
+4;Producto4;99
+5;Producto5;28
+6;Producto6;46
+7;Producto7;52
+8;Producto8;59
+9;Producto9;56
+10;Producto10;46
